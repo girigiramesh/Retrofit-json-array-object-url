@@ -20,9 +20,9 @@ import retrofit.Retrofit;
 public class MainActivity extends AppCompatActivity {
 
     String url = "http://www.androidtutorialpoint.com/";
-    TextView text_id_1, text_name_1, text_marks_1;
-    TextView text_id_2, text_name_2, text_marks_2;
-    Button RetrofitArray, RetrofitObject;
+    TextView text_id_1,text_name_1,text_marks_1;
+    TextView text_id_2,text_name_2,text_marks_2;
+    Button RetrofitArray,RetrofitObject;
 
 
     @Override
